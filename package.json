@@ -1,0 +1,21 @@
+{
+    "name": "wingbot",
+    "version": "1.1.0",
+    "description": "Wingman but a bot",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@discordjs/opus": "^0.1.0",
+        "@google-cloud/language": "^4.2.1",
+        "@google-cloud/speech": "^4.2.0",
+        "discord.js": "^12.0.0-dev",
+        "dotenv": "^8.2.0",
+        "newsapi": "^2.4.1",
+        "node-opus": "^0.3.3",
+        "request": "^2.88.2",
+        "unirest": "^0.6.0"
+    },
+    "license": "ISC"
+}
